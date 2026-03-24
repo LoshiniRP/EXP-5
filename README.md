@@ -12,9 +12,7 @@ S.No	Name of the Apparatus	Range	Quantity
 4	Bread Board		1
 5	Digital Ammeter	(0-200)mA	1
 6	Digital Voltmeter	(0-20)V DC	1
-7	Connecting Wires	As Required	
-
-## CIRCUIT DIAGRAM:
+7	Connecting Wires	As Required
 
 ## THEORY:
 	
